@@ -6,8 +6,9 @@ Code for the project:
 ![Overleaf link](https://www.overleaf.com/read/smjczxvvgrrk)
 ## Research Papers
 - Deep Voice 3 - Oct 2017
-- Deep Glow - Oct 2018
+- Wave Glow - Oct 2018
 - Rule Based Grapheme to Phoneme Mapping for Hindi Speech Synthesis - 2003
+- Hindi Datasets - 2017
 
 ## Dataset
 - ![Short Phrases with Audio](http://www.nemoapps.com/phrasebooks/hindi)
@@ -18,4 +19,3 @@ Code for the project:
 ## Code
 
 - Rule based Grapheme to Phoneme model is ready
--
