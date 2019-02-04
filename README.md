@@ -18,4 +18,3 @@ Code for the project:
 ## Code
 
 - Rule based Grapheme to Phoneme model is ready
--
