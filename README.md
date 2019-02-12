@@ -19,3 +19,4 @@ Code for the project:
 ## Code
 
 - Rule based Grapheme to Phoneme model is ready
+- Work in Progress for Segmentation Model (Encoder Decoder Architecture is being used with last layer as GRU stacked attention)
