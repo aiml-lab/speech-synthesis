@@ -20,3 +20,7 @@ Code for the project:
 
 - Rule based Grapheme to Phoneme model is ready
 - Work in Progress for Segmentation Model (Encoder Decoder Architecture is being used with last layer in combination with GRU stacked attention)
+
+##To Read
+- [Creating a Dataset](https://medium.com/@klintcho/creating-an-open-speech-recognition-dataset-for-almost-any-language-c532fb2bc0cf)
+
